@@ -36,3 +36,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishsah01&layout=compact&theme=radical)  
 
 ---
+![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishsah01&show_icons=true&theme=tokyonight&hide=stars,issues)
+![GitHub Streak](https://streak-stats.demolab.com/?user=krishsah01&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=krishsah01&color=blue)
+![Krish's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=krishsah01&theme=react-dark)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
