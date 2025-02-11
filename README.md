@@ -11,9 +11,6 @@
 ### 🎓 Education  
 **University of Cincinnati** – Bachelor of Science in IT, Software Application Development  
 - **Secondary Track**: IT - Data Technologies  
-- **Awards and Honors**: CECH International Outreach Scholarship, UC Global Outreach Scholarship, Dean’s List (2023-2024)  
-- **GPA**: 3.75  
-- **Relevant Coursework**: Computer Programming, Networking, Web Development, Information Security, System Administration, Database Management  
 
 ---
 
@@ -52,12 +49,6 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![Postico 2](https://img.shields.io/badge/Postico_2-4A90E2?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
----
-
-### 🌟 Achievements & Certifications  
-- **National Rank 25**, SOF International Mathematics Olympiad (2022-2023)  
-- **LinkedIn Learning Certification**: Explore a Career in IT Support (April 2024)  
 
 ---
 
